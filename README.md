@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/vzvanov/advice-generator-app](https://github.com/vzvanov/advice-generator-app)
-- Live Site URL: [https://vzvanov.github.io/advice-generator-app](https://vzvanov.github.io/advice-generator-app)
+- Solution URL: [https://github.com/vzvanov/advice-generator-app](https://github.com/vzvanov/advice-generator)
+- Live Site URL: [https://vzvanov.github.io/advice-generator-app](https://vzvanov.github.io/advice-generator)
 
 ## My process
 
